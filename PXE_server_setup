@@ -1,1 +1,3 @@
-安裝 tftp Server、DHCP Server、Vsftp Server 
+#安裝套件 tftp Server、DHCP Server、Vsftp Server、syslinux
+#
+yum install tftp-server dhcp syslinux vsftpd
